@@ -17,9 +17,9 @@ int main(){
     }
 
     if(num == sum){
-        printf("%d is a Krishnamurthy Number", num);
+        printf("%d is a Krishnamurthi Number", num);
     }else{
-        printf("%d is not a Krishnamurthy Number", num);
+        printf("%d is not a Krishnamurthi Number", num);
     }
 
     return 0;
