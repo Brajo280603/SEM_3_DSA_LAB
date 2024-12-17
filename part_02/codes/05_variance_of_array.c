@@ -12,7 +12,6 @@ int main(){
         sum += array[i];
     }
 
-       
     mean = round((float)sum/total_values);
 
     for(int i = 0;i<total_values;i++){
@@ -21,8 +20,6 @@ int main(){
 
     variance /= (total_values);
     printf("the variance of the array is %.2f",variance);
-
-
 
     return 0;
 }
